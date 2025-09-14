@@ -599,7 +599,7 @@ input, select, textarea {
 						}
 
 					#main .item.thumb h2 {
-						display: none;
+						display: block;
 					}
 
 		}
